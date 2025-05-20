@@ -1,0 +1,95 @@
+{
+  "LANGUAGE": {
+    "HI": "HINDI",
+    "MA": "MARATHI",
+    "EN": "ENGLISH"
+  },
+  "HEADER": {
+    "NAME": "Abhishek Pawar"
+  },
+  "NAV": {
+    "ABOUT": "About",
+    "PROJECTS": "Projects",
+    "SKILLS": "Skills",
+    "CONTACT": "Contact",
+    "HOME": "Home",
+    "TESTIMONIALS": "Testimonials"
+  },
+  "THEME": {
+    "LIGHT": "Light Mode",
+    "DARK": "Dark Mode"
+  },
+  "ABOUT": {
+    "GREETING": "Hello, I'm",
+    "NAME": "Abhishek Pawar",
+    "INTRO": "A passionate full-stack developer focused on creating clean, user-friendly applications.",
+    "VIEW_WORK": "View My Work",
+    "CONTACT": "Contact Me",
+    "ABOUT_ME": "About Me",
+    "FEATURED_PROJECTS": "Featured Projects",
+    "VIEW_ALL_PROJECTS": "View All Projects",
+    "WHO": "Who I Am",
+    "RESUME": "Download Resume",
+    "SUMMARY": "Creating beautiful digital experiences that solve real problems."
+  },
+  "PROJECTS": {
+    "TITLE": "My Projects",
+    "SUBTITLE": "Check out some of my recent work and personal projects.",
+    "ALL": "All Projects",
+    "FEATURED": "Featured",
+    "LIVE": "Live Demo",
+    "VISIT": "Visit Project",
+    "CODE": "View Code",
+    "NO_PROJECTS": "No projects found.",
+    "WHO": "Who I Am",
+    "RESUME": "Download Resume",
+    "DESCRIPTION": "Here's a selection of my recent work. Each project showcases different skills and technologies.",
+    "TECHNOLOGY": "Technologies Used"
+  },
+  "SKILLS": {
+    "TITLE": "My Skills",
+    "SUBTITLE": "A comprehensive overview of my technical skills and proficiency levels."
+  },
+  "CONTACT": {
+    "TITLE": "Get In Touch",
+    "INFO": "Contact Information",
+    "COLAB": "Feel free to contact me for any project or collaboration.",
+    "CONTINFO": "Have a project in mind or want to discuss a potential collaboration? Feel free to reach out!",
+    "SUBTITLE": "Have a question or want to work together? Feel free to contact me!",
+    "LOCATION": "Location",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "FORM_TITLE": "Send Me A Message",
+    "NAME": "Name",
+    "NAME_PLACEHOLDER": "Enter your name",
+    "NAME_REQUIRED": "Name is required",
+    "EMAIL_PLACEHOLDER": "Enter your email",
+    "EMAIL_REQUIRED": "Email is required",
+    "EMAIL_INVALID": "Please enter a valid email",
+    "SUBJECT": "Subject",
+    "SUBJECT_PLACEHOLDER": "Enter your subject",
+    "SUBJECT_REQUIRED": "Subject is required",
+    "MESSAGE": "Message",
+    "MESSAGE_PLACEHOLDER": "Type your message here...",
+    "MESSAGE_REQUIRED": "Message is required (min 20 characters)",
+    "SEND": "Send Message",
+    "SENDING": "Sending...",
+    "SUCCESS_MESSAGE": "Your message has been sent successfully!"
+  },
+  "FOOTER": {
+    "TAGLINE": "Building beautiful and functional web experiences.",
+    "QUICK_LINKS": "Quick Links",
+    "CONNECT": "Connect With Me",
+    "RIGHTS": "All Rights Reserved.",
+    "NAMEFOOT": "Abhi Pawar",
+    "POST": "Software Engineer & Full Stack Developer",
+    "NAVIGATION": "Navigation"
+  },
+  "EXPERIENCE": {
+    "EXPERIENCE": "EXPERIENCE"
+  },
+  "TESTIMONIALS": {
+    "TESTIMONIALS": "TESTIMONIALS",
+    "SUBTEST": " Here's what some of my clients and colleagues have to say about my work."
+  }
+}
