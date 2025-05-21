@@ -26,16 +26,16 @@
             }
           },
           "options": {
+            "baseHref": "/MyPortFolio/",
             "assets": [
               {
                 "glob" : "**/*",
-                "input": "src/assets",
-                "output": "/assets"
+                "input": "public"
               }
             ],
             "index": "src/index.html",
             "main": "src/main.ts",
-            "outputPath": "dist/demo",
+            "outputPath": "dist/MyPortFolio",
             "polyfills": ["zone.js"],
             "scripts": [],
             "styles": ["src/global_styles.css"],
